@@ -1,1 +1,1 @@
-/Users/zeyuan.feng/github/rust_study/rust-study/new_world/target/debug/new_world: /Users/zeyuan.feng/github/rust_study/rust-study/new_world/src/main.rs
+/Users/jerry.feng/github/rust-study/new_world/target/debug/new_world: /Users/jerry.feng/github/rust-study/new_world/src/main.rs
